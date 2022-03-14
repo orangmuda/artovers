@@ -13,6 +13,8 @@ saya membuat tools ini untuk suatu project yang akan datang dan dapat digunakan 
 2) cd artovers
 3) python3 artovers.py -h
 
+![screenshot](img/proof2.png)  
+
 ## Config Files
 File konfigurasi adalah file python yang ada di direktori ./config penyelundup. File-file ini menjelaskan konten permintaan HTTP dan mutasi pengkodean transfer yang akan diuji.
 
